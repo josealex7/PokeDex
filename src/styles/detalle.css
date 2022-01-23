@@ -1,0 +1,92 @@
+.contenedorDetallePokemon{
+    padding-top: 70px;
+    padding-left: 20px;
+}
+
+.contenedorDetalleSub{
+    width: 650px;
+    margin: 20px auto;
+    border: 2px solid rgb(107, 13, 102);
+}
+
+.ContenedorNombre{
+    text-align: center;
+    background-color: #9D25B8;
+}
+
+.ContenedorNombre{
+    outline:2px solid rgb(107, 13, 102);
+}
+
+
+.contenedorDetalleHabilidades{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.contenedeorHabilidadesDetalle{
+    width: 260px;
+}
+
+.contedor50porciento{
+    width: 50%;
+    text-align: left;
+}
+
+.imagenPokemonDetalle{
+    width: 140px;
+}
+
+.contenedorHabilidades{
+    display: flex;
+}
+
+.habilidadesHeight{
+    padding-top: 20px;
+    display: flex;
+    text-align: left;
+    justify-content: space-around;
+}
+
+.grassPoison{
+    display: flex;
+   padding-top: 5px;
+}
+
+.divContenedor50{
+    background-color: rgb(56, 69, 189);
+}
+
+.divContenedor51{
+    background-color: rgb(202, 82, 12);
+}
+
+.grassPoison div{
+    padding-left: 20px;
+}
+
+.boldLabel{
+    font-weight: bold;
+}
+
+.habilidadesHeight div{
+    width: 350px;
+}
+
+.labelHabilidades{
+    font-weight: bold;
+}
+
+.contenedorImagenesGaleria{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 5px 20px 20px;
+}
+
+.imagenesGaleria{
+    width: 150px;
+    height: 120px;
+    object-fit: fill;
+}

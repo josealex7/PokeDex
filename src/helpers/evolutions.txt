@@ -1,0 +1,138 @@
+{
+    "docs":
+    [
+        {"to":
+            [
+                {
+                    "nationalId":2,
+                    "name":"Ivysaur",
+                    "method":"level_up",
+                    "level":16
+                }
+            ],
+            "_id":"00001",
+            "_rev":"1-A"
+        }
+    ]
+}
+{
+    "seq":1
+}
+{
+    "docs":
+    [
+        {
+            "from":
+            [
+                {
+                    "nationalId":1,
+                    "name":"Bulbasaur",
+                    "method":"level_up",
+                    "level":16
+                }
+            ],
+            "to":
+            [
+                {
+                    "nationalId":3,
+                    "name":"Venusaur",
+                    "method":"level_up",
+                    "level":32
+                }
+            ],
+            "_id":"00002",
+            "_rev":"1-A"
+        }
+    ]
+}
+{
+    "seq":2
+}
+{
+    "docs":
+    [
+        {
+            "from":
+            [
+                {
+                    "nationalId":2,
+                    "name":"Ivysaur",
+                    "method":"level_up",
+                    "level":32
+                }
+            ],
+            "_id":"00003",
+            "_rev":"1-A"
+        },
+        {
+            "to":
+            [
+                {
+                    "nationalId":5,
+                    "name":"Charmeleon",
+                    "method":"level_up",
+                    "level":16
+                }
+            ]
+            ,
+            "_id":"00004",
+            "_rev":"1-A"
+        },
+        {
+            "from":
+            [
+                {
+                    "nationalId":4,
+                    "name":"Charmander",
+                    "method":"level_up",
+                    "level":16
+                }
+            ],
+            "to":
+            [
+                {
+                    "nationalId":6,
+                    "name":"Charizard",
+                    "method":"level_up",
+                    "level":36
+                }
+            ],
+            "_id":"00005",
+            "_rev":"1-A"
+            },
+            {
+                "from":
+                [
+                    {
+                        "nationalId":5,
+                        "name":"Charmeleon",
+                        "method":"level_up",
+                        "level":36
+                    }
+                ],
+                "_id":"00006",
+                "_rev":"1-A"
+            },
+            {
+                "to":
+                [
+                    {
+                        "nationalId":8,
+                        "name":"Wartortle",
+                        "method":"level_up",
+                        "level":16
+                    }
+                ],
+                "_id":"00007",
+                "_rev":"1-A"
+            }
+    ]
+}
+{"seq":7}
+{"docs":[{"from":[{"nationalId":7,"name":"Squirtle","method":"level_up","level":16}],"to":[{"nationalId":9,"name":"Blastoise","method":"level_up","level":36}],"_id":"00008","_rev":"1-A"},{"from":[{"nationalId":8,"name":"Wartortle","method":"level_up","level":36}],"_id":"00009","_rev":"1-A"},{"to":[{"nationalId":11,"name":"Metapod","method":"level_up","level":7}],"_id":"00010","_rev":"1-A"},{"from":[{"nationalId":10,"name":"Caterpie","method":"level_up","level":7}],"to":[{"nationalId":12,"name":"Butterfree","method":"level_up","level":10}],"_id":"00011","_rev":"1-A"},{"from":[{"nationalId":11,"name":"Metapod","method":"level_up","level":10}],"_id":"00012","_rev":"1-A"}]}
+{"seq":12}
+{"docs":[{"to":[{"nationalId":14,"name":"Kakuna","method":"level_up","level":7}],"_id":"00013","_rev":"1-A"},{"from":[{"nationalId":13,"name":"Weedle","method":"level_up","level":7}],"to":[{"nationalId":15,"name":"Beedrill","method":"level_up","level":10}],"_id":"00014","_rev":"1-A"},{"from":[{"nationalId":14,"name":"Kakuna","method":"level_up","level":10}],"_id":"00015","_rev":"1-A"},{"to":[{"nationalId":17,"name":"Pidgeotto","method":"level_up","level":18}],"_id":"00016","_rev":"1-A"},{"from":[{"nationalId":16,"name":"Pidgey","method":"level_up","level":18}],"to":[{"nationalId":18,"name":"Pidgeot","method":"level_up","level":36}],"_id":"00017","_rev":"1-A"}]}
+{"seq":17}
+{"docs":[{"from":[{"nationalId":17,"name":"Pidgeotto","method":"level_up","level":36}],"_id":"00018","_rev":"1-A"},{"to":[{"nationalId":20,"name":"Raticate","method":"level_up","level":20}],"_id":"00019","_rev":"1-A"},{"from":[{"nationalId":19,"name":"Rattata","method":"level_up","level":20}],"_id":"00020","_rev":"1-A"},{"to":[{"nationalId":22,"name":"Fearow","method":"level_up","level":20}],"_id":"00021","_rev":"1-A"},{"from":[{"nationalId":21,"name":"Spearow","method":"level_up","level":20}],"_id":"00022","_rev":"1-A"}]}
+{"seq":22}
+{"docs":[{"to":[{"nationalId":24,"name":"Arbok","method":"level_up","level":22}],"_id":"00023","_rev":"1-A"},{"from":[{"nationalId":23,"name":"Ekans","method":"level_up","level":22}],"_id":"00024","_rev":"1-A"},{"to":[{"nationalId":26,"name":"Raichu","method":"stone"}],"from":[{"nationalId":172,"name":"Pichu","method":"other"}],"_id":"00025","_rev":"1-A"},{"from":[{"nationalId":25,"name":"Pikachu","method":"stone"}]

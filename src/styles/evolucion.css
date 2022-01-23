@@ -1,0 +1,10 @@
+.flexEvolucion{
+    padding: 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.imagenEvolucion{
+    width: 130px;
+}

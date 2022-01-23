@@ -1,0 +1,36 @@
+.ulPokemon{
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.liCartas{
+    list-style: none;
+}
+
+.links-pokemon{
+    text-decoration: none;
+    color: black;
+}
+
+.ContenedorCarta{
+    width: 300px;
+    text-align: center;
+    padding: 10px 10px 2px;
+    margin: 10px;
+}
+
+.ImagenPkemonPrincipal{
+    width: 200px;
+    height: 200px;
+}
+
+.CartaPokemon{
+
+}
+
+.busquedaFiltrada{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
