@@ -42,11 +42,9 @@ const NavBarPrincipal = () => {
                         </Link>
                     </div>
                     <div className='divOpciones'>
-                        <Link to="/about" className='links'>
-                            <Typography variant='h6'>
-                                Acerca
-                            </Typography>
-                        </Link>
+                        <Typography>
+                            <a target="_blank" className='links' href="https://github.com/josealex7/PokeDex">Acerca</a>
+                        </Typography>
                     </div>
                     <div className='divOpciones'>
                         <Typography variant='h6' onClick={() => handleLogout()} className='logoutNavbar'>
